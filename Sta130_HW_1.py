@@ -38,9 +38,9 @@ print(f"The dataset has {rows} rows and {columns} columns.")
 # Based on chatbot's answer, here are my general definition of the term 'observations' and 'variables' in context of my dataset
 
 # Observation definition:
-# In a dataset, an observation refers to a single data entry orrecord that represents a unit of analysis
-# This means that each observation represent a row of the dataset
-# In the context of this Pokémon dataset，each observation represents a specific Pokémon
+# In a dataset, an observation refers to a single data entry orrecord that represents a unit of analysis.
+# This means that each observation represent a row of the dataset.
+# In the context of this Pokémon dataset，each observation represents a specific Pokémon.
 # Each row of the dataset, or observation corresponds to one Pokémon, capturing all the details about that Pokémon such as its name, type and stats.
 
 # Variables definition
@@ -55,7 +55,7 @@ print(f"The dataset has {rows} rows and {columns} columns.")
 ##3.
 import pandas as pd
 
-#In this code, I want to provide a summary of my dataset
+#In this code, I want to provide a summary of my dataset.
 
 # Load the dataset related to the game 'Pokemon' from the given URL
 url = "https://raw.githubusercontent.com/KeithGalli/pandas/master/pokemon_data.csv"
@@ -149,7 +149,7 @@ print(df.isna().sum())
 # Methods require parentheses () because they are "called" to execute some code.
 # For example, df.describe() is a method that computes and returns summary statistics for numerical columns in the DataFrame df.
 
-#My own summary of the difference between attributes and methods
+#My own summary of the difference between attributes and methods:
 
 #Attributes:
 
@@ -227,7 +227,7 @@ print(df.isna().sum())
 
 # Attributes: Properties of an object that store data or information. Accessed without parentheses (e.g., df.shape).
 
-# Methods: Functions associated with an object that perform actions or computations. Called with parentheses (e.g., df.describe()).
+# Methods: Functions associated with an object that perform actions or computations. Called with parentheses (e.g.: df.describe()).
 
 # Summary:
 
@@ -519,7 +519,7 @@ print(age_description_by_class)
 
 #A:
  # For this error, chatbot generate an correct example of without the 'NameError' and tell me to include 'import pandas as pd'.
- # Google search just tell me to include 'import pandas as pd',.
+ # Google search just tell me to include 'import pandas as pd'.
  # For me, google search is more straightforward in this scenario.
     
 #B:
@@ -550,7 +550,7 @@ print(age_description_by_class)
 #G
  # The chatbot identifies the NameError in this case and generates the correct version for both lines of code.
  # I had a hard time fixing the error with Google search, as it failed to identify the issue and provide me the correct version of the code.
- # Chatbot is the better option in scenario E
+ # Chatbot is the better option in scenario E.
     
     
 
@@ -560,7 +560,7 @@ print(age_description_by_class)
 
 ##9. 
 
-# Yes
+# Yes.
 
 
 # In[ ]:
