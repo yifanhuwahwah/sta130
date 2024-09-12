@@ -46,7 +46,7 @@ print(f"The dataset has {rows} rows and {columns} columns.")
 # Variables definition
 # A variable represents a specific attribute or characteristic measured for each observation.
 # In a dataset, variables are the columns that hold different types of information about each observation.
-# In the context of this Pokémon dataset, variables or columns include attributes like "Name"(the name of the Pokémon), "Type" (the type of the Pokémon) and "HP" (Hit Points), 
+# In the context of this Pokémon dataset, variables or columns include attributes like "Name"(the name of the Pokémon), "Type" (the type of the Pokémon) and "HP" (Hit Points).
 
 
 # In[ ]:
