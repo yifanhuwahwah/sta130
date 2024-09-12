@@ -35,7 +35,7 @@ rows, columns = df.shape
 #print out the size of the Dataframe
 print(f"The dataset has {rows} rows and {columns} columns.")
 
-# Based on chatgpt's answer, here are my general definition of the term 'observations' and 'variables' in context of my dataset
+# Based on chatbot's answer, here are my general definition of the term 'observations' and 'variables' in context of my dataset
 
 # Observation definition:
 # In a dataset, an observation refers to a single data entry orrecord that represents a unit of analysis
