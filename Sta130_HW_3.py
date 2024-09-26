@@ -64,8 +64,10 @@ fig.update_layout(
     title_x=0.5  # Center the title
 )
 
-# Show the plot
+# Show the figure
 fig.show()
+
+# Link to the figure generated: https://github.com/yifanhuwahwah/sta130/blob/main/newplot%20(2).png
 
 # In[3]:
 
@@ -130,7 +132,7 @@ plt.tight_layout()
 # Show the plot
 fig.show()
 
-
+# Link to the figure generated: https://github.com/yifanhuwahwah/sta130/blob/main/ff.png
 
 # In[4]:
 
@@ -442,6 +444,7 @@ fig.update_layout(
 # Show the plot
 fig.show()
 
+# Link to the figure generated: https://github.com/yifanhuwahwah/sta130/blob/main/newplot%20(4).png
 
 
 # In[3]:
@@ -494,6 +497,7 @@ fig = px.scatter(
 # Reverse the y-axis to put rank 1 at the top
 fig.update_yaxes(autorange='reversed')
 
+# Link to the image generated: https://github.com/yifanhuwahwah/sta130/blob/main/newplot%20(3).png
 
 # In[ ]:
 
