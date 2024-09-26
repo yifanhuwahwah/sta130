@@ -66,7 +66,6 @@ fig.update_layout(
 
 # Show the plot
 fig.show()
-![newplot (2)](https://github.com/user-attachments/assets/16724f87-4ad9-462b-b71e-a6b1df052fb4)
 
 # In[3]:
 
