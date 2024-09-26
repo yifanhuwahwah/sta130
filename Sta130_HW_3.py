@@ -67,7 +67,7 @@ fig.update_layout(
 # Show the plot
 fig.show()
 
-
+https://github.com/yifanhuwahwah/sta130/blob/main/newplot%20(2).png
 # In[3]:
 
 
